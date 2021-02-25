@@ -1,2 +1,3 @@
 #测试编辑Diff
 cdcsdcdcdscc
+测试和暂存区i的区别
