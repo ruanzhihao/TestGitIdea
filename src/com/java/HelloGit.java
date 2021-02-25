@@ -11,6 +11,9 @@ public class HelloGit {
         System.out.println("cdc"
         );
 	System.out.println("hh");
+        System.out.println("working tree");
+        System.out.println("index");
+        System.out.println("repository");
 //都是
     }
 }
